@@ -1,0 +1,4 @@
+nba_api
+flask
+flask-cors
+gunicorn
